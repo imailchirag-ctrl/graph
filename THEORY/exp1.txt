@@ -1,0 +1,13 @@
+IMPLEMENTATION OF BASIC GRAPHS
+
+Graph Theory is a branch of mathematics that studies graphs, which are structures used to represent relationships among objects. A graph consists of vertices and edges connecting them. Graphs are widely used in networking, computer science, transportation systems and social networks.
+
+A Complete Graph is a graph in which every pair of distinct vertices is connected by a unique edge. A complete graph with n vertices is represented as Kn.
+
+A Cycle Graph is a graph in which all vertices are connected in a closed chain. Every vertex has degree 2.
+
+A Path Graph consists of a sequence of vertices connected by edges without forming a cycle.
+
+A Complete Bipartite Graph divides vertices into two disjoint sets and every vertex of one set is connected to every vertex of the other set.
+
+These graph structures form the foundation of graph theory and help understand graph properties and connectivity.

@@ -1,0 +1,9 @@
+LINE GRAPH CONSTRUCTION
+
+A line graph is derived from another graph by representing each edge of the original graph as a vertex in the new graph.
+
+Two vertices in the line graph are adjacent if their corresponding edges in the original graph share a common endpoint.
+
+Line graphs are useful in scheduling, communication networks and transportation systems.
+
+They provide an alternative representation of graph relationships.

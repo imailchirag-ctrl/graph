@@ -1,0 +1,13 @@
+GENERATION OF SUBGRAPHS
+
+A subgraph is a graph formed from a subset of vertices and edges of another graph. Subgraphs help analyze portions of larger graphs.
+
+Types of subgraphs include induced subgraphs, spanning subgraphs and edge-deleted subgraphs.
+
+An induced subgraph contains selected vertices and all edges between them present in the original graph.
+
+A spanning subgraph contains all vertices but only some edges.
+
+An edge-deleted subgraph is formed by removing one or more edges.
+
+Subgraphs are useful in graph decomposition, optimization and network analysis.

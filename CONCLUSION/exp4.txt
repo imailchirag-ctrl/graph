@@ -1,0 +1,1 @@
+A graph for the given degree sequence was successfully constructed using the Havel-Hakimi algorithm and the graphical sequence was verified.

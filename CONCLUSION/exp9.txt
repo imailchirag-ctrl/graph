@@ -1,0 +1,1 @@
+The existence of an Eulerian circuit was successfully determined and the Eulerian circuit was constructed whenever possible.

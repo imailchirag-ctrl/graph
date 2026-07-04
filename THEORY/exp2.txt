@@ -1,0 +1,9 @@
+GRAPH ISOMORPHISM VERIFICATION
+
+Graph Isomorphism is the study of structural similarity between two graphs. Two graphs are said to be isomorphic if there exists a one-to-one correspondence between their vertices such that adjacency is preserved.
+
+In graph isomorphism, labels are not important; only the graph structure matters. If two graphs have the same number of vertices, edges and connectivity pattern, they may be isomorphic.
+
+Graph isomorphism has applications in chemistry, pattern recognition, computer vision and network analysis. Verification involves checking graph invariants such as degree sequence, number of vertices and number of edges.
+
+Implementation of graph isomorphism helps understand graph equivalence and structural analysis.

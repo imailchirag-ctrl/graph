@@ -1,0 +1,11 @@
+CLOSED WALKS, TRAILS AND PATHS
+
+A walk is a sequence of vertices and edges where repetitions are allowed.
+
+A trail is a walk in which no edge is repeated.
+
+A path is a trail in which no vertex is repeated.
+
+A closed walk starts and ends at the same vertex.
+
+These concepts are important in graph traversal and connectivity analysis.

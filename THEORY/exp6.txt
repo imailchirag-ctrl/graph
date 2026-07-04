@@ -1,0 +1,9 @@
+KRUSKAL'S MINIMUM SPANNING TREE ALGORITHM
+
+A Minimum Spanning Tree is a spanning tree of a connected weighted graph with minimum total edge weight.
+
+Kruskal's Algorithm is a greedy algorithm that sorts edges by weight and repeatedly selects the smallest edge that does not form a cycle.
+
+The algorithm uses Union-Find for efficient cycle detection.
+
+Applications include network design, road construction and optimization problems.

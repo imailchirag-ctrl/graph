@@ -1,0 +1,9 @@
+HAVEL-HAKIMI ALGORITHM
+
+The Havel-Hakimi Algorithm determines whether a degree sequence can represent a simple graph.
+
+The algorithm repeatedly sorts the degree sequence in descending order, removes the largest degree and reduces the next degrees accordingly.
+
+If negative values appear, the sequence is not graphical. If all values become zero, the sequence is graphical.
+
+This algorithm is widely used in graph realization problems and network modeling.

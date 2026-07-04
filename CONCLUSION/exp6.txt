@@ -1,0 +1,1 @@
+The minimum spanning tree of the given weighted graph was successfully obtained using Kruskal's algorithm.

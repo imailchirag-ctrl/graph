@@ -1,0 +1,9 @@
+SHORTEST PATH ALGORITHM
+
+The shortest path problem involves finding the minimum distance from a source vertex to all other vertices in a weighted graph.
+
+Dijkstra's Algorithm is commonly used for graphs with non-negative edge weights.
+
+The algorithm repeatedly selects the nearest unvisited vertex and updates distances to neighboring vertices.
+
+Applications include GPS navigation, routing and transportation planning.

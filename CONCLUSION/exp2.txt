@@ -1,0 +1,1 @@
+Graph isomorphism verification was successfully implemented to compare the structural equivalence between two graphs.

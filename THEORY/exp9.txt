@@ -1,0 +1,9 @@
+EULERIAN CIRCUIT
+
+An Eulerian Circuit is a closed trail that visits every edge exactly once and returns to the starting vertex.
+
+A connected graph contains an Eulerian Circuit if every vertex has even degree.
+
+Eulerian circuits are important in route planning, network design and graph theory.
+
+Implementation involves checking Eulerian conditions and constructing the circuit.

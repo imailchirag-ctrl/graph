@@ -1,0 +1,9 @@
+HAMILTONIAN CIRCUIT
+
+A Hamiltonian Circuit is a cycle that visits every vertex exactly once and returns to the starting vertex.
+
+Hamiltonian circuits focus on visiting vertices rather than edges.
+
+These circuits are related to the Traveling Salesman Problem and optimization problems.
+
+Implementation helps understand graph traversal and cycle detection.

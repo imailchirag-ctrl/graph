@@ -1,0 +1,9 @@
+GREEDY GRAPH COLORING
+
+Graph Coloring assigns colors to vertices such that adjacent vertices have different colors.
+
+The Greedy Coloring Algorithm assigns the smallest available color to each vertex.
+
+The minimum number of colors required is called the chromatic number.
+
+Applications include scheduling, register allocation and frequency assignment.
